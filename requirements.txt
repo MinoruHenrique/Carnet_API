@@ -1,0 +1,3 @@
+opencv-python>=4.7.0.72
+uvicorn>=0.21.1
+fastapi>=0.95.0
